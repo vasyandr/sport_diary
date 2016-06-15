@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Train daiary</string>
+    <string name="start">Start</string>
+    <string name="weight">weight</string>
+    <string name="reps">Reps</string>
+    <string name="Next">Next set</string>
+    <string name="nextSet">Next exercise</string>
+    <string name="changeProg">Change program</string>
+    <string name="close">End train</string>
+    <string name="rest">Rest</string>
+    <string name="_40">40</string>
+    <string name="_100">100</string>
+    <string name="add_train">Add train</string>
+    <string name="sets">Sets:</string>
+    <string name="ex_name">Exercise name</string>
+    <string name="train_name">Train name</string>
+    <string name="next">Next</string>
+    <string name="editorTrain">Train editor</string>
+    <string name="conf1">Are you shure?</string>
+    <string name="exerciseEditor">Exercise editor</string>
+    <string name="ok">Ok</string>
+    <string name="shortReps">Sets</string>
+    <string name="train_was_ended">Train is ended</string>
+    <string name="are_you_shure_end_train">Are you shure will not to end train</string>
+    <string name="yes">Yes</string>
+    <string name="enter_reps_count">Enter count of sets</string>
+    <string name="enter_weight">Enter count of weight</string>
+    <string name="planned"> planned</string>
+    <string name="datestart">Date from: </string>
+    <string name="dateto">to: </string>
+    <string name="asdadaddadawa"> из </string>
+    <string name="results_edit_title"> View results </string>
+    <string name="enter_correct_data"> Incorrect date </string>
+    <string name="date">Date </string>
+    <string name="kg"> kg</string>
+    <string name="save_to_excell">Save to CSV </string>
+    <string name="ready">Yes</string>
+    <string name="but_done">Yes</string>
+    <string name="title_tab_start_date">Start</string>
+    <string name="ttile_tab_end_date">End</string>
+    <string name="empty">No data</string>
+    <string name="today_dont_have_train">Today in your plan you don not have train</string>
+    <string name="stats">Results</string>
+    <string name="settings">Settings</string>
+    <string name="title_signal">Enter rest time in minutes</string>
+    <string name="rest_title">Rest</string>
+    <string name="idicate_vibro">Vibrate</string>
+    <string name="description_vibro">Phone will notificate by vibro</string>
+    <string name="idicate_sound">Phone will notificate by sound</string>
+
+    <string name="biceps">Biceps</string>
+    <string name="leg">Hip</string>
+    <string name="talia">Waist</string>
+    <string name="chest">Chest</string>
+    <string name="ikri">Cavair</string>
+    <string name="shoulder">Shoulders</string>
+    <string name="bodyval">Volumes of body</string>
+    <string name="save">Save</string>
+    <string name="volumes">Volumes</string>
+    <string name="cm">сm</string>
+    <string name="train">Train</string>
+    <string name="file_is_saved">Data save to Donwloads directory</string>
+
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_down_Screen">ca-app-pub-5693927253584298/8221965969</string>
+    <string name="no_exercises">No exercises</string>
+
+    <string-array name="days">
+        <item>Mondeay</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thruesday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+</resources>

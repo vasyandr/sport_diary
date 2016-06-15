@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large.Inverse"
+        android:text="Large Text"
+        android:id="@+id/date_item"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginRight="9dp"
+        android:layout_marginBottom="2dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium.Inverse"
+        android:text="Medium Text"
+        android:id="@+id/weight_item"
+        android:layout_marginLeft="7dp"
+        android:layout_marginStart="7dp"
+        android:layout_alignBottom="@+id/date_item"
+        android:layout_toRightOf="@+id/reps_item"
+        android:layout_toEndOf="@+id/reps_item" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium.Inverse"
+        android:text="Medium Text"
+        android:id="@+id/reps_item"
+        android:layout_alignBottom="@+id/date_item"
+        android:layout_toRightOf="@+id/date_item"
+        android:layout_toEndOf="@+id/date_item" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium.Inverse"
+        android:text="Medium Text"
+        android:id="@+id/rest_time_item"
+        android:layout_below="@+id/date_item"
+        android:layout_toLeftOf="@+id/reps_item"
+        android:layout_toStartOf="@+id/reps_item" />
+</RelativeLayout>

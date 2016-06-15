@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/exercise_name"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:hint="@string/ex_name"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="7dp"
+        android:textColorHint="@color/abc_background_cache_hint_selector_material_light" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sets_count_item"
+        android:hint="@string/sets"
+        android:inputType="number"
+        android:layout_below="@+id/exercise_name"
+        android:layout_alignLeft="@+id/exercise_name"
+        android:layout_alignStart="@+id/exercise_name"
+        android:textColorHint="@color/abc_background_cache_hint_selector_material_light" />
+</RelativeLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дневник тренировок</string>
+    <string name="start">Старт</string>
+    <string name="weight">Вес</string>
+    <string name="reps">Повторы</string>
+    <string name="Next">Следующий подход</string>
+    <string name="nextSet">Следующий упражнение</string>
+    <string name="changeProg">Изменить программу</string>
+    <string name="close">Закончить тренировку</string>
+    <string name="rest">Отдых</string>
+    <string name="_40">40</string>
+    <string name="_100">100</string>
+    <string name="add_train">Добавить тренировку</string>
+    <string name="sets">Подходов:</string>
+    <string name="ex_name">Название упражнения</string>
+    <string name="train_name">Название тренировки</string>
+    <string name="next">Далее</string>
+    <string name="editorTrain">Редактор тренировки</string>
+    <string name="conf1">Вы действительно хотите удалить тренировку</string>
+    <string name="exerciseEditor">Редактор упражнения</string>
+    <string name="ok">Ok</string>
+    <string name="shortReps">Повт.</string>
+    <string name="train_was_ended">Тренировка закончена</string>
+    <string name="are_you_shure_end_train">Вы десйтвительно хотите закончить тренировку?</string>
+    <string name="yes">Да</string>
+    <string name="enter_reps_count">Введите число повторов</string>
+    <string name="enter_weight">Введите вес</string>
+    <string name="planned"> запланированных</string>
+    <string name="datestart">Дата с: </string>
+    <string name="dateto">По: </string>
+    <string name="asdadaddadawa"> из </string>
+    <string name="results_edit_title"> Просмотр результатов </string>
+    <string name="enter_correct_data"> Введите корректно дату </string>
+    <string name="date">Дата </string>
+    <string name="kg"> кг</string>
+    <string name="save_to_excell">Сохранить в эксель </string>
+    <string name="ready">Да</string>
+    <string name="but_done">Да</string>
+    <string name="title_tab_start_date">Начало</string>
+    <string name="ttile_tab_end_date">Конец</string>
+    <string name="empty">Нет данных</string>
+    <string name="today_dont_have_train">Сегодня по плану нет тренировки</string>
+    <string name="stats">Результаты</string>
+    <string name="settings">Настройки</string>
+    <string name="title_signal">Введите время отдыха в минутах</string>
+    <string name="rest_title">Отдых</string>
+    <string name="idicate_vibro">Вибрировать</string>
+    <string name="description_vibro">Телефон будет увадомлять вас вибрацией</string>
+    <string name="idicate_sound">Телефон будет уведомлять звуком</string>
+
+    <string name="biceps">Бицепс</string>
+    <string name="leg">Бедро</string>
+    <string name="talia">Талия</string>
+    <string name="chest">Грудь</string>
+    <string name="ikri">Икры</string>
+    <string name="shoulder">Плечи</string>
+    <string name="bodyval">Объемы тела</string>
+    <string name="save">Сохранить</string>
+    <string name="volumes">Объемы</string>
+    <string name="cm">см</string>
+    <string name="train">Тренировка</string>
+    <string name="file_is_saved">Данный сохранены в папку Donwloads</string>
+
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_down_Screen">ca-app-pub-5693927253584298/8221965969</string>
+    <string name="no_exercises">Нет упражнений</string>
+
+    <string-array name="days">
+        <item>Подельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>

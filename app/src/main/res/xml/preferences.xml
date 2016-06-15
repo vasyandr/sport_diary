@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference android:title="@string/idicate_vibro"
+        android:defaultValue="false"
+        android:summary="@string/description_vibro"
+        android:key="vibroflag"
+        />
+    <CheckBoxPreference android:title="@string/idicate_sound"
+        android:defaultValue="false"
+        android:summary="@string/description_vibro"
+        android:key="soundflag"
+        />
+    <EditTextPreference android:title="@string/rest_title"
+        android:key="time_value"
+        android:summary="@string/title_signal"
+        android:textColor="@color/colorPrimaryDark"
+        android:inputType="numberDecimal"
+        ></EditTextPreference>
+
+</PreferenceScreen>
